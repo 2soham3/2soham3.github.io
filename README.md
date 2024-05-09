@@ -1,1 +1,8 @@
-# 2soham3.github.io
+# Qualifications
+### Education
+Mathematics
+
+### Internships
+
+
+### Projects
