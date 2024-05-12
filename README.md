@@ -11,20 +11,18 @@
 
 
 ## Projects
-### Gromov-Hyperbolicity of The Ray Graph(Summer Project, March 2023- July-2023)
+### Gromov-Hyperbolicity of The Ray Graph(Summer Project, Guide: [Dr. Lvzhou Chen](https://lvzhouchen.github.io/), Purdue University, USA, March 2023- July-2023)
 
 Read the 
 [Article](https://arxiv.org/pdf/1802.02715.pdf)
-by by Juliette Bavard, under the guidance of [Dr. Lvzhou Chen](https://lvzhouchen.github.io/), Purdue University, USA.
+by Juliette Bavard. 
 
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Gromov-Hyperbolicity(Summer Project, Guide: [Dr. Dr. Siddhartha Gadgil](http://math.iisc.ernet.in/~gadgil/) May 2023- July-2023)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Read about Gromov-Hyperbolicity and quasi-isometry in particular from the books, 'Metric Spaces of Non-positive Curvature' and 'Geometric Group Theory, An Introduction' by Martin R. Bridson Andre'e Haeflinger and Clara Loh respectively.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
