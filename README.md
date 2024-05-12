@@ -1,28 +1,3 @@
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
-  }
-});
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Mathematics Doctoral Student
 
 #### Interests: Teichmuller Theory 
@@ -59,7 +34,7 @@ Read the article, ['POINTWISE ERGODIC THEOREM FOR FUCHSIAN GROUPS' by ALEXANDER 
 ### Finite Presentability of Mapping Class Groups(Semester Project) Guide: [Dr. Chitrabhanu Chaudhuri](http://www.niser.ac.in/~chitrabhanu/), NISER,Bhubaneswar
 January 2023 - April-2023
 
-Studied in particular the proof, ' If S is a compact surface with finitely many marked points, then the group Mod(S) is finitely presented', from the book 'A Primer on Mapping Class Group' by Benson Farb and Dan Margalit.
+Studied in particular the proof, ' If S is a compact surface with finitely many marked points, then the group Mod(S) is finitely presented', from the book 'A Primer on Mapping Class Group' by Benson Farb and Dan Margalit. <img src="https://latex.codecogs.com/svg.image?&space;g\geq&space;0&space;" title=" g\geq 0 " />
 
 
 ## Talks & Lectures
