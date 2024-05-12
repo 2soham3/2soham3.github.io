@@ -11,11 +11,11 @@
 
 
 ## Projects
-### Gromov-Hyperbolicity of The Ray Graph(Summer Project)
+### Gromov-Hyperbolicity of The Ray Graph(Summer Project, March 2023- July-2023)
 
 Read the 
 [Article](https://arxiv.org/pdf/1802.02715.pdf)
-
+by by Juliette Bavard, under the guidance of [Dr. Lvzhou Chen](https://lvzhouchen.github.io/), Purdue University, USA.
 
 
 
