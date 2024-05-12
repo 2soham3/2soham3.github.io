@@ -29,6 +29,10 @@ Read about Gromov-Hyperbolicity and quasi-isometry in particular from the books,
 ### Ergodicity of Fuchsian Groups(Semester Project) Guide: [Dr. Panchugopal Bikram](https://www.niser.ac.in/sms/professor/bikram)
 January 2023- April-2023
 
+Read the article, ['POINTWISE ERGODIC THEOREM FOR FUCHSIAN GROUPS' by ALEXANDER I. BUFETOV AND CAROLINE SERIES](https://arxiv.org/abs/1010.3362}).
+$g\ge0$
+
+
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
