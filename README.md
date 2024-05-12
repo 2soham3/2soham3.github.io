@@ -34,7 +34,7 @@ Read the article, ['POINTWISE ERGODIC THEOREM FOR FUCHSIAN GROUPS' by ALEXANDER 
 ### Finite Presentability of Mapping Class Groups(Semester Project) Guide: [Dr. Chitrabhanu Chaudhuri](http://www.niser.ac.in/~chitrabhanu/), NISER,Bhubaneswar
 January 2023 - April-2023
 
-Studied in particular the proof, ' If $S$ is a compact surface with finitely many marked points, then the group $Mod(S)$ is finitely presented', from the book 'A Primer on Mapping Class Group' by Benson Farb and Dan Margalit.
+Studied in particular the proof, ' If $S$ is a compact surface with finitely many marked points, then the group $Mod(S)$ is finitely presented', from the book 'A Primer on Mapping Class Group' by Benson Farb and Dan Margalit. $g \ge 0$
 
 
 ## Talks & Lectures
