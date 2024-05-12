@@ -11,7 +11,8 @@
 
 
 ## Projects
-### Gromov-Hyperbolicity of The Ray Graph(Summer Project, Guide: [Dr. Lvzhou Chen](https://lvzhouchen.github.io/), Purdue University, USA, March 2023- July-2023)
+### Gromov-Hyperbolicity of The Ray Graph(Summer Project) Guide: [Dr. Lvzhou Chen](https://lvzhouchen.github.io/), Purdue University, USA, 
+March 2023- July-2023
 
 Read the 
 [Article](https://arxiv.org/pdf/1802.02715.pdf)
@@ -20,11 +21,13 @@ by Juliette Bavard.
 
 
 
-### Gromov-Hyperbolicity(Summer Project, Guide: [Dr. Dr. Siddhartha Gadgil](http://math.iisc.ernet.in/~gadgil/) May 2023- July-2023)
+### Gromov-Hyperbolicity(Summer Project) Guide: [Dr. Siddhartha Gadgil](http://math.iisc.ernet.in/~gadgil/) 
+May 2023- July-2023
 
 Read about Gromov-Hyperbolicity and quasi-isometry in particular from the books, 'Metric Spaces of Non-positive Curvature' and 'Geometric Group Theory, An Introduction' by Martin R. Bridson Andre'e Haeflinger and Clara Loh respectively.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Ergodicity of Fuchsian Groups(Semester Project) Guide: [Dr. Panchugopal Bikram](https://www.niser.ac.in/sms/professor/bikram)
+January 2023- April-2023
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
