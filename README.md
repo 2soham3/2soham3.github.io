@@ -12,7 +12,9 @@
 
 ## Projects
 ### Gromov-Hyperbolicity of The Ray Graph(Summer Project)
-[Publication](https://arxiv.org/pdf/1802.02715.pdf)
+
+Read the 
+[Article](https://arxiv.org/pdf/1802.02715.pdf)
 
 
 
