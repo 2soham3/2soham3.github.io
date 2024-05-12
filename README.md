@@ -30,7 +30,11 @@ Read about Gromov-Hyperbolicity and quasi-isometry in particular from the books,
 January 2023- April-2023
 
 Read the article, ['POINTWISE ERGODIC THEOREM FOR FUCHSIAN GROUPS' by ALEXANDER I. BUFETOV AND CAROLINE SERIES](https://arxiv.org/abs/1010.3362}).
-$g\ge0$
+
+### Finite Presentability of Mapping Class Groups(Semester Project) Guide: [Dr. Chitrabhanu Chaudhuri](http://www.niser.ac.in/~chitrabhanu/), NISER,Bhubaneswar
+January 2023 - April-2023
+
+Studied in particular the proof, ' If $S$ is a compact surface with finitely many marked points, then the group $Mod(S)$ is finitely presented', from the book 'A Primer on Mapping Class Group' by Benson Farb and Dan Margalit.
 
 
 ## Talks & Lectures
