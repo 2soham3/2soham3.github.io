@@ -44,12 +44,14 @@ Studied the triviality of the group <img src="https://latex.codecogs.com/svg.ima
 ### Baker-Campbell-Hausdorff Formula(Semester Project) Guide: [Dr. Sanjay Parui](https://www.niser.ac.in/sms/professor/parui), NISER, Bhubaneswar
 November 2023 
 
-Gave a detailed talk addressing the requirement and the proof of the above formula. 
+
+Gave a detailed talk addressing the requirement and the proof of the above formula.
 
 ### Lie Groups and Covering Spaces(Summer Project) Guide: [Dr. Somnath Basu](https://www.iiserkol.ac.in/web/en/people/faculty/dms/somnath-basu/), IISER Kolkata
 June 2022 - July 2022
 
 Studied the Lie group structure of the covering space of a Lie group.
+
 
 ### Infinite Series(Summer Project) Guide: [Dr. Sushil Gorai](https://www.iiserkol.ac.in/web/en/people/faculty/dms/sushil-gorai/), IISER Kolkata
 June 2020 - July 2020
